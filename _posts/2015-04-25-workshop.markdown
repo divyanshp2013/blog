@@ -17,7 +17,8 @@ Why is it so difficult?
 **This is i-Help!**
 
 
-_WHat is that_
+_WHat is that_![ihelp.png]({{site.baseurl}}/img/ihelp.png)
+
 
 ## Hahahaha
 ### Hey yay
