@@ -12,7 +12,6 @@ published: true
 Why is it so difficult?
 ![]({{site.baseurl}}/_posts/ihelp.png)
 **This is i-Help!**
-![ihelp.png]({{site.baseurl}}/_posts/ihelp.png)
 _WHat is that_
 
 ## Hahahaha
