@@ -12,19 +12,19 @@ published: true
 
 Why is it so difficult?
 
-![]({{site.baseurl}}/_posts/ihelp.png)
+
 
 **This is i-Help!**
 
 
-_WHat is that_![ihelp.png]({{site.baseurl}}/blog1/img/ihelp.png)
+_WHat is that_!
 
 
 ## Hahahaha
 ### Hey yay
 
 ### Aliquam suscipit.
-Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mol![]({{site.baseurl}}/_posts/logo.png)![logo.png]({{site.baseurl}}/_posts/logo.png)
+Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mol![]({{site.baseurl}}/blog1/_posts/logo.png)![logo.png]({{site.baseurl}}/_posts/logo.png)
 
 lis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
